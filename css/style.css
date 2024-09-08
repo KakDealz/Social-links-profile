@@ -79,3 +79,8 @@ button {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
 }
+
+button:hover {
+    background-color: rgb(196, 248, 42);
+    color: rgb(0, 0, 0);
+}
