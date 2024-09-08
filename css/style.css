@@ -27,3 +27,14 @@ img {
     height: 90px;
     width: 90px;
 }
+
+figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin: 0 auto;
+}
