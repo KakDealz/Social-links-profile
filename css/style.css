@@ -21,3 +21,7 @@ body {
     align-items: center;
     gap: 25px;
 }
+
+img {
+    border-radius: 50%;
+}
