@@ -38,3 +38,7 @@ figure {
 p {
     margin: 0 auto;
 }
+
+figcaption {
+    font-size: 32px
+}
