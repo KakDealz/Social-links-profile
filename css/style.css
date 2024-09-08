@@ -78,6 +78,7 @@ button {
     color: rgb(255, 255, 255);
     font-family: 'Inter', sans-serif;
     font-weight: 800;
+    transition: color 0.15s ease-out 5ms;
 }
 
 button:hover {
