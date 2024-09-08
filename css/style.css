@@ -54,6 +54,12 @@ figcaption {
     font-size: 20px;
 }
 
+.social_media {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
 button {
     height: 45px;
     width: 304px;
