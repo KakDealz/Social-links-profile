@@ -19,8 +19,8 @@ body {
 
 .card {
     background-color: rgb(31, 31, 31);
-    height: 40vh;
-    width: 24vw;
+    height: 542px;
+    width: 331px;
     border-radius: 15px;
     padding: 40px;
     display: flex;
