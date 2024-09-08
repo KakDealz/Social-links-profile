@@ -42,5 +42,10 @@ p {
 }
 
 figcaption {
-    font-size: 32px
+    font-size: 32px;
+}
+
+.address {
+    font-size: 18px;
+    color: rgb(216, 244, 130);
 }
