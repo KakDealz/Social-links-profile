@@ -7,4 +7,6 @@ body {
 
 .card {
     background-color: rgb(31, 31, 31);
+    height: 60vh;
+    width: 27vw;
 }
